@@ -427,7 +427,7 @@ git add <some-file>
 git commit
 ```
 
-#### 小红要去吃个午饭
+#### 小红要去吃个
 
 ![](images/git-workflow-feature-branch-3.png)
 
